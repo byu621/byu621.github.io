@@ -16,7 +16,7 @@ timezone: Pacific/Auckland
 
 title: Ben's Blog # the main title
 
-tagline: Interesting ideas shape your world # it will display as the sub-title
+tagline: Interesting ideas shape the world # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
