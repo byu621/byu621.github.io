@@ -5,6 +5,4 @@ categories: [Software, Algorithms]
 tags: [Principle]
 ---
 
-# Algorithms
-
 - [GJK](https://www.youtube.com/watch?v=ajv46BSqcK4) - determine whether two convex shapes intersect
